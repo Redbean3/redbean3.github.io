@@ -57,15 +57,15 @@ user:
                 # or the site-wide settings.
   name: Heph
   bio: Student ∪ Programmer
-  email: 1589197020@qq.com
+  email: redb3an@gamil.com
   photo: /assets/img/profile1.jpeg
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
-    enabled: false  # turn this to true
-    twitter: raghuveerdotnet
-    github: raghuveerdotnet 
-    youtube: raghuveerdotnet 
-    linkedin: raghuveerdotnet  
+    enabled: true  # turn this to true
+    twitter: null
+    github: Redbean3 
+    youtube: null 
+    linkedin: null
     twitch: null
     facebook: null 
     instagram: null
