@@ -1,8 +1,12 @@
-I"_<p><strong>所用环境</strong>：Ubuntu18.04</p>
+I"T<p><strong>所用环境</strong>：Ubuntu18.04</p>
+
+<p>经过几次摸索，终于利用 的模板结合Jekyll 和GitHub Pages建立起自己的博客主页。之所以选择</p>
+
+<p>由于CSDN等社区的技术博客管理相当混杂，同样的文章或碎片化的、或整篇地被抄袭和复制。针对BUG的解决方案，没有完整的使用场景、没有问题背景和相关解释，对于寻求帮助的人阅览痛苦不堪，长时间之后作者本人也难免遗忘其确切含义。</p>
 
 <h3 id="创建github-pages">创建GitHub Pages</h3>
 
-<p>该部主要参考官方文档GitHub Pages Documentation利用</p>
+<p>该部分主要参考官方文档<a href="https://docs.github.com/en/pages">GitHub Pages Documentation</a>.</p>
 
 <p>May you meet the error as fellow:</p>
 
