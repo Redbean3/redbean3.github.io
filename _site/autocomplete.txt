@@ -1,0 +1,1 @@
+Introduction to Simply Jekyll;Exploring the features of Simply Jekyll;Adlerian Teleological Thinking and A Simplified Life;How to setup Simply Jekyll;How to customize your _config.yml;How to use Simply Jekyll features on your website;Test page to see how the raw markdown is rendered;

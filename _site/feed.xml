@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-06-11T09:24:55+08:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Introduction to Simply Jekyll</title><link href="http://localhost:4000/posts/intro" rel="alternate" type="text/html" title="Introduction to Simply Jekyll" /><published>2020-05-01T00:00:00+08:00</published><updated>2020-05-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/intro</id><content type="html" xml:base="http://localhost:4000/posts/intro">&lt;p&gt;Simply Jekyll is a highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free theme that strives to provide maximum value all without holding back on any essential features that a user would benefit from or would desire for. This is an evolving project and is garanteed to be maintained at least for quite some time as I myself am a beneficiary of this theme and the project.&lt;/p&gt;
+        &lt;p&gt;The theme provides a rich set of features that include:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Wiki-style markdown syntax for both internal as well as external links.&lt;/li&gt;
+        &lt;li&gt;Support for backlinks and related posts to exhort serendipitous encounters.&lt;/li&gt;
+        &lt;li&gt;Feed-specific context menu for instantly accessing the related posts and references.&lt;/li&gt;
+        &lt;li&gt;Lunrjs based search with previews and shortcut to trigger search.&lt;/li&gt;
+        &lt;li&gt;Auto stale-link management for internal links.&lt;/li&gt;
+        &lt;li&gt;Custom syntax for sidenotes and marginnotes on either side of the feed/post.&lt;/li&gt;
+        &lt;li&gt;Support for partial transclusion of posts.&lt;/li&gt;
+        &lt;li&gt;On hover page preview.&lt;/li&gt;
+        &lt;li&gt;Custom classes to style phrasing elements like quotes, callouts, etc by mentioning size, font-types, weight, box etc.&lt;/li&gt;
+        &lt;li&gt;Preliminary support for flashcards.&lt;/li&gt;
+        &lt;li&gt;Custom syntax to highlight your favorite part of the post (No, I am not talking about code syntax highlighting, which is already provided by Jekyll through Rouge).&lt;/li&gt;
+        &lt;li&gt;Support for external link identifier through icons.&lt;/li&gt;
+        &lt;li&gt;Finally, the most important of them all — No bloatware or frameworks!&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Plus everything else that you can already do with jekyll like write something on a bunch of markdown files and convert it into a HTML file or sprinkle in some inline html can still be done alongside these features.&lt;/p&gt;
+        &lt;p&gt;Neat stuff, isn't it? To see the above mentioned features in action go check out the next post. :P&lt;/p&gt;
+        &lt;p&gt;Also see the sample post—[[Adlerian Teleological Thinking and A Simplified Life]]—to get a feel for how an actual essay would look like. :)&lt;/p&gt;</content><author><name></name></author><category term="Jekyll" /><category term="Theme" /><summary type="html">Simply Jekyll is a highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free theme that strives to provide maximum value all without holding back on any essential features that a user would benefit from or would desire for. This is an evolving project and is garanteed to be maintained at least for quite some time as I myself am a beneficiary of this theme and the project.</summary></entry><entry><title type="html">Adlerian Teleological Thinking and A Simplified Life</title><link href="http://localhost:4000/posts/adler" rel="alternate" type="text/html" title="Adlerian Teleological Thinking and A Simplified Life" /><published>2020-04-01T00:00:00+08:00</published><updated>2020-04-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/adler</id><content type="html" xml:base="http://localhost:4000/posts/adler">&lt;p&gt;It is surprising to me that Alfred Adler is not so widely known outside the psychoanalytic and psychology circle, while Freud and Jung, his cofounders of the Vienna psychonanalytic movement are so well known in the popular culture. Especially when so much of his philosophy has become such an integral part of the modern day thinking and lifestyle, more so than Freud's or Jung's. And fwiw, if we look at the movement closely, Adler seems like the most sensible among the three fathers of psychoanalysis. With Adlerian psychology, there is no drama whatsoever, whether that of the repressed emotions, etiological thinking, or any kind of typologization of an individual. In fact, the defining character of his philosophy lies in his notion of simplicity through teleological thinking, where all of life and the conditions in it are constantly remappable, given that the individual be willing enough to reframe their situation in terms of the plausible goals instead of the causative elements that led to that situtation in the first place — &quot;AGENCY&quot;.&lt;/p&gt;
+        &lt;p&gt;To put it succintly, the idea is to prefer teleology over etiology. He is basically asking us to become aware of the agency that we as individuals have, so that we can create appropriate correspondences between our current state and the potential realities that await us, and then work towards the one that we desire. Teleology, he says, not only allows the individual to exercise their agency, it also provides them the courage to navigate the terrain with equanimity. On the contrary, etiology, from an adlerian world view, is a way to lock the here and now based on the causal chain that led to the current situation.&lt;/p&gt;
+        &lt;p class=&quot;boxit&quot;&gt;Example of the Adlerian notion of Teleological thinking. &lt;br /&gt;&lt;br /&gt; 1. &lt;strong&gt;&lt;em&gt;Freudian Etiological Thinking&lt;/em&gt;&lt;/strong&gt;: &quot;I am unable to do the task &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;X_{task}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07847em;&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03148em;&quot;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; because the event &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;Y&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;Y_{event}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.22222em;&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.2805559999999999em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.22222em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03588em;&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; happened to me 10 years ago&quot; &lt;br /&gt;&lt;br /&gt; 2. &lt;strong&gt;&lt;em&gt;Adlerian Teleological Thinking&lt;/em&gt;&lt;/strong&gt;: &quot;I am not doing the task &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;X_{task}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07847em;&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03148em;&quot;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; and holding on to the event &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;Y&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;Y_{event}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.22222em;&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.2805559999999999em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.22222em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03588em;&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; because I don't want the event &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;Z&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;Z_{event}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07153em;&quot;&gt;Z&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.2805559999999999em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03588em;&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to happen&quot; &lt;br /&gt;&lt;br /&gt; The interesting thing in the second case is that some remapped event &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;Z&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;Z_{event}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07153em;&quot;&gt;Z&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.2805559999999999em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07153em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03588em;&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; can still happen, if one creates a new correspondence between &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;mo mathvariant=&quot;normal&quot; lspace=&quot;0em&quot; rspace=&quot;0em&quot;&gt;′&lt;/mo&gt;&lt;/msup&gt;&lt;msub&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;X&amp;#x27;s_{condition}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.901892em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07847em;&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.751892em;&quot;&gt;&lt;span style=&quot;top:-3.063em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;′&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;co&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; and this new &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;Z&lt;/mi&gt;&lt;mo mathvariant=&quot;normal&quot; lspace=&quot;0em&quot; rspace=&quot;0em&quot;&gt;′&lt;/mo&gt;&lt;/msup&gt;&lt;msub&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;Z&amp;#x27;s_{condition}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.901892em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07153em;&quot;&gt;Z&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.751892em;&quot;&gt;&lt;span style=&quot;top:-3.063em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;′&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;co&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, which can then help the individual perform the task &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;X_{task}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07847em;&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03148em;&quot;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;; whereas in the first case the here and now is always locked by the causative element &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;Y&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;v&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;Y_{event}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.22222em;&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.2805559999999999em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.22222em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03588em;&quot;&gt;v&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; that one thinks is controlling the &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;o&lt;/mi&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;X_{condition}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07847em;&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;co&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, which in turn is controlling their ability to perform the task &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;X&lt;/mi&gt;&lt;mrow&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;k&lt;/mi&gt;&lt;/mrow&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;X_{task}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.83333em;vertical-align:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.07847em;&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;msupsub&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.33610799999999996em;&quot;&gt;&lt;span style=&quot;top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;sizing reset-size6 size3 mtight&quot;&gt;&lt;span class=&quot;mord mtight&quot;&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;mord mathnormal mtight&quot; style=&quot;margin-right:0.03148em;&quot;&gt;k&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.15em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;br /&gt;&lt;br /&gt;Note that I am not saying that Adler is right or that causes do not exist, but that reframing and knowing that one has the agency to change one's life can help a &lt;em&gt;large majority&lt;/em&gt; of people who are locked by their past or their implicitly assumed disadvantage.&lt;/p&gt;
+        &lt;p&gt;After having read whatever little I did about Adler, it seems to me that the Adlerian guide to life is probably the most viable theory among the existing ones that an individual can follow without falling into the pitfalls of modernity(&lt;strong&gt;Note:&lt;/strong&gt; This may change in future as my knowledge and understanding of life changes). An interesting take on individualist philosophy with a hint of (w)holism in the form of an intervention-less concern for other and a sense of belonging at the level of being.&lt;/p&gt;
+        &lt;p&gt;It might be difficult for a layman to understand how an individualist philosophy that focuses on agency can incorporate a sense of belongingness and concern for others while being interventionless; and this is where I would say Adler shines with his notion of 'expected assistance'. Adler in his theory redefines &lt;em&gt;(lack of) intervention&lt;/em&gt; as 'expected assistance' as opposed to 'intended involvement'. This allows an individual to separate the 'tasks' while supporting the community(See Notes). Note that Adler is not asking one to stay away from helping others, instead he is asking us to be proactive in being able to notice the cry for help and asking the people in crisis in what ways we could help them instead of intervening in whatever ways we think is best for them. And this dovetails seamlessly with his notion of separations of 'tasks', in that, an individual can always be aware of where, when, and what-for should they exercise their agency—by observing what falls under the category of their 'tasks'—as opposed to automatically assuming that their (ostensibly) altruistic intentions would lead to best results no matter what.&lt;/p&gt;
+        &lt;p&gt;In essence, I think what Adler is proposing here is that we accept the potentitalities as a function of remappable correspondences(from etiological elements to teleological elements) while separating our 'tasks' in a manner that facilitates 'concern for others'(See notes) and 'a sense of belonging at the level of being'. Basically, a cure for all int(ra|er)-personal issues, which in adlerian worldview is all of human problems there was and there will be.&lt;/p&gt;
+        &lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+        &lt;ol&gt;
+        &lt;li&gt;
+        &lt;p&gt;'Concern for others' is a technical term in Adlerian Psychology. The technicality lies in the fact that Adlerian &quot;concern for others&quot; discourages all forms of intervention, including praise and rebuke.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;'Encouragement' is a technical term in Adlerian Psychology. The technicality lies in the fact that Adler equates encouragement to respect at the level of being as opposed to creating a environment of interventional praise.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;'Community' in Adlerian Psychology is a (w)holist entity that helps with the sense of belonging at the level of being as opposed to at the level of externalization of contribution. Adler's view of &quot;contribution&quot; is that one is always contributing, no matter what, at the level of being and must be treated accordingly. Adler treats everything from humans to universe to inanimate objects also as part of the community. He says that contribution as an act of externalization is not what creates a sense of belonging or a community that accepts beings, but contribution as being is what allows for a sense of belonging/community.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;Adler's notion of 'intervention' is more about expected assistance as opposed to intended involvement. Adler's entire philosophy rests on the idea of agency through teleological thinking, and according to him any form of intervention that is not one's own task only leads to exasperation and further dissolution of will and agency.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;In Adlerian terms, tasks are something that gives one the agency and the responsibility. According to Adler, separation of tasks in of utmost importance when it comes to handling one's interpersonal issues, which is all of human problems according to Adler. [Needs some careful perusal]&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;Adler sees problems of engineering and health also as int(ra|er)-personal problems.&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+        &lt;ol&gt;
+        &lt;li&gt;The Courage to be Disliked. (2013). Ichiro Kishimi, Fumitake Koga&lt;/li&gt;
+        &lt;/ol&gt;</content><author><name></name></author><category term="General" /><category term="Philosophy" /><category term="Psychology" /><category term="Review" /><summary type="html">It is surprising to me that Alfred Adler is not so widely known outside the psychoanalytic and psychology circle, while Freud and Jung, his cofounders of the Vienna psychonanalytic movement are so well known in the popular culture. Especially when so much of his philosophy has become such an integral part of the modern day thinking and lifestyle, more so than Freud's or Jung's. And fwiw, if we look at the movement closely, Adler seems like the most sensible among the three fathers of psychoanalysis. With Adlerian psychology, there is no drama whatsoever, whether that of the repressed emotions, etiological thinking, or any kind of typologization of an individual. In fact, the defining character of his philosophy lies in his notion of simplicity through teleological thinking, where all of life and the conditions in it are constantly remappable, given that the individual be willing enough to reframe their situation in terms of the plausible goals instead of the causative elements that led to that situtation in the first place — &quot;AGENCY&quot;.</summary></entry><entry><title type="html">Exploring the features of Simply Jekyll</title><link href="http://localhost:4000/posts/explore" rel="alternate" type="text/html" title="Exploring the features of Simply Jekyll" /><published>2020-04-01T00:00:00+08:00</published><updated>2020-04-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/explore</id><content type="html" xml:base="http://localhost:4000/posts/explore">&lt;p&gt;Essentiality is the heart of any good software, and this theme is designed to ensure that I don't add things that I won't use on a daily basis or not have things that would be important for my personal usecase. It has been designed carefully to get rid of all  the feature creeps, bloatwares, etc. i.e., no bootstrap, no semantic, no jquery, no nothing…&lt;/p&gt;
+        &lt;p&gt;That said, this is a ready made theme and I am making it public so that more number of people will use it and enjoy the experience of using it. So, pardon my bigotry there😅.&lt;/p&gt;
+        &lt;p&gt;As for the list of features, this website steals features from every website that I can think of, or more appropriately the design inspiration for this website is derived from multiple sources; Here is the tiny list for the curious:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Backlinks:  Roam Research&lt;/li&gt;
+        &lt;li&gt;Transclusion:  Tiddlywiki&lt;/li&gt;
+        &lt;li&gt;Sidenote:  Edward Tufte, Gwern Branwen&lt;/li&gt;
+        &lt;li&gt;Stale Link Highlighting: Tiddlywiki&lt;/li&gt;
+        &lt;li&gt;Wiki-style links:  Every wiki ever&lt;/li&gt;
+        &lt;li&gt;Text highlighting:  Roam Research&lt;/li&gt;
+        &lt;li&gt;Page preview:  Wikipedia&lt;/li&gt;
+        &lt;li&gt;Context menu:  Google Docs&lt;/li&gt;
+        &lt;li&gt;Notes:  Andy Matuschak's Evergreen Notes&lt;/li&gt;
+        &lt;li&gt;Color scheme: Github&lt;/li&gt;
+        &lt;li&gt;Feed like structure for home page:  Twitter&lt;/li&gt;
+        &lt;li&gt;Omnisearch box at the top:  Google&lt;/li&gt;
+        &lt;li&gt;Profile board:  Twitter/Instagram&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Now that you know all my secrets let us not waste any more time into further exposing my true nature in its entirety and get started with tour:P&lt;/p&gt;
+        &lt;p class=&quot;boxit&quot;&gt;&lt;strong&gt;Note:&lt;/strong&gt; This page only showcases the features. How to use these feature is mentioned in a separate article.&lt;/p&gt;
+        &lt;h3 id=&quot;backlinks&quot;&gt;Backlinks&lt;/h3&gt;
+        &lt;p&gt;Backlinks or as Roam Research calls it &quot;Birdirectional Links&quot; is a nifty little feature that allows not only users reading your essays/articles to encounter interesting related articles, this is something you as a author yourself will see how powerful it is once you start browsing around your website. Backlinks are basically a link on PostA indicating all the mentions of PostA on different Posts.&lt;/p&gt;
+        &lt;p&gt;The neat stuff is it won't show up with an empty box if a given post doesn't have any backlinks and if it is already included in backlinks, it won't show up in your related posts[[&lt;strong&gt;Related Posts:&lt;/strong&gt; Posts that share same tag(s).&lt;br /&gt; &lt;strong&gt;Linked References(Backlinks):&lt;/strong&gt; Posts that link other posts inside your blog.::rmn]]. :)&lt;/p&gt;
+        &lt;p&gt;Here is a screenshot of what mentions/backlinks will look like in a page:&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/backlinks.png&quot; style=&quot;border: 1px solid #f7f7f7; box-shadow: 2px 2px 20px 0 #ddd;&quot; height=&quot;100%&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;In the above example, it can be seen that there are three links, it means that all the three pages have a link to the page in which they are being displayed as a backlink.&lt;/p&gt;
+        &lt;p&gt;For eg. If you scroll all the way to the bottom, you will something similar i.e., you will see a link to the pages that has a link to this page.&lt;/p&gt;
+        &lt;h3 id=&quot;sidenotes-and-marginnotes&quot;&gt;Sidenotes and Marginnotes&lt;/h3&gt;
+        &lt;p&gt;Of what use are such wide margins when you can't make efficient use of them. Fear not, we have a way to handle that too — Marginnotes[[There are two types of people, those who have taste and those who don't. And anyone who has even a tiny bit of taste will never, never-ever use footnotes over sidenotes.&lt;br /&gt;&lt;cite&gt;—Some random blogger who shall remain unamed&lt;/cite&gt;::rmn]]. For what it's worth, when you stroll down a garden, you don't ever see a flower bloom 10 miles away from the plant do you? This is where sidenotes come in and replace their paper-era sibling ie., footnotes. If it is relevant you see it right there. (No scrolling = No cognitive strain). The entire idea is to allow users to have a pleasant time on your blog i.e., Not too distracting(offputting), not too mesmerizing, just the right amount of ornamentation to allow seamless reading experience[[I see it as an issue of managing &amp;amp; exposing the length. Some readers want to go as deep as you can take them, but others are frustrated if you block them from moving on. I deal with it by use of collapsible sections+abstracts, margin notes, and explicit topics in list items.&lt;br /&gt;&lt;cite&gt;—Tweet by Gwern Branwen&lt;/cite&gt;::lsn]]. The added advantage we have with this website is it has wide margins allowing us to use both sides for sidenotes. So we can use them for quotations, small snippets, and also for interactive/expository animations.&lt;/p&gt;
+        &lt;p&gt;The first one on the right is a marginnote and the second one on the left is a sidenote. You may ask what is the difference, it looks all the same to me. You are right to some extent, but if you look closely you will see that the one on left has a number attached to it while the one on the right doesn't. Yes, that is all the difference there is, at least [[Edward Tufte::https://edwardtufte.github.io/tufte-css/]] says.&lt;/p&gt;
+        &lt;h3 id=&quot;on-feed-context-menu&quot;&gt;On-feed context menu&lt;/h3&gt;
+        &lt;p&gt;Context menus are a great way to improve user experience if they are done correctly. Given that our theme has a feed-link structure for the landing page, it leverages the opportunity and saves second time visitors who have already read the article and are only here to see other related articles or the backlinks by just simply right clicking on the feed. Thereby saving users the unnecessay time involved with clicking on a link and scrolling all the way down to see the backlinks or related articles.&lt;/p&gt;
+        &lt;p&gt;Here is a screenshot for people who are too lazy, while the rest of you can go back to the home page and try it out by right clicking on a particular feed entry:&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/context_menu.png&quot; style=&quot;border: 1px solid #f7f7f7; box-shadow: 2px 2px 20px 0 #ddd; fload: left;&quot; height=&quot;70%&quot; width=&quot;45%&quot; /&gt;
+        &lt;img src=&quot;/assets/img/context_menu_backlinks.png&quot; style=&quot;border: 1px solid #f7f7f7; box-shadow: 2px 2px 20px 0 #ddd;&quot; height=&quot;70%&quot; width=&quot;45%&quot; /&gt;&lt;/p&gt;
+        &lt;h3 id=&quot;on-hover-page-preview&quot;&gt;On-hover page preview&lt;/h3&gt;
+        &lt;p&gt;Ever been to a blog or a tutorial site and seen links to other pages without any clue as to what that page is about apart from vague statements like &quot;See Related&quot; or &quot;Click here for Part II&quot;. We all have had that experience, haven't we? Wouldn't it be nice to be able to take a cursory glance at the page just so that you could get a feel of it and decide quickly as to whether or not do you really want to read that post without having to click on the link and wait for the ginormous scroll of text to load? That is precisely what page previews are for. For eg, try to hover over this link: [[Adlerian Teleological Thinking and A Simplified Life]].&lt;/p&gt;
+        &lt;p&gt;And yes, all of what you see is available right out of the box. No configuration, no sh*t, no shinola.&lt;/p&gt;
+        &lt;h3 id=&quot;transclusion&quot;&gt;Transclusion&lt;/h3&gt;
+        &lt;p&gt;Once I had sidenotes and page preview for my blog, transclusion[[Adlerian Teleological Thinking and A Simplified Life::rmn-transclude]] just felt like the natural next step to it. I mean there are less important pages that you can leave at the discretion of the readers to hover-over and take a peak, and then there are pages that you want to explicity show a glimpse of, but how do you do it? Obviously, putting a chunk of random text in the most of your post is just unacceptable UX, but then how else do you do  it? You could just combine the nifty little preview thingy with your nice little sidenote thingy and let users get a glimpse of the important stuff without getting distracted. Amazing, isn't it?&lt;/p&gt;
+        &lt;h3 id=&quot;link-management&quot;&gt;Link Management&lt;/h3&gt;
+        &lt;p&gt;Now the biggest of them all: the permalink curse. Most of us are never happy with the first title that we come up with, and when you excitingly write a new post embedding an old post—the title of which you always wanted to change but never got time to do so because you were busy creating content—it sometimes happens that you forget to update the relevant link all the associated places that you linked it in. And I think this is worst of them all in terms of an UX nightmare.&lt;/p&gt;
+        &lt;p&gt;Although we don't have a complete solution given that we are using a static site generator, I think we have a decent mechanism to atleast find the culprit links without clicking at them (a.k.a highlighting links that don't point anywhere, but ideally must be pointing to some location due to which they cannot be deleted).&lt;/p&gt;
+        &lt;p&gt;Here is an example of:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;A perfectly valid link: [[Adlerian Teleological Thinking and A Simplified Life]]&lt;/li&gt;
+        &lt;li&gt;A bad link that does not point anywhere: [[Some non-existing title]]&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;See how it highlights in yellow? I feel this is a game-changer that anyone who has a personal website should at least think of incorporating in their website given the number of deadlink issues we face.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This only works with local/internal links.&lt;/p&gt;
+        &lt;h3 id=&quot;miscellaneous-features-highlighting-text-primitive-flash-cards-and-some-gimmicks&quot;&gt;Miscellaneous Features: Highlighting text, Primitive Flash Cards, and Some gimmicks&lt;/h3&gt;
+        &lt;h4 id=&quot;text-highlighting&quot;&gt;Text Highlighting&lt;/h4&gt;
+        &lt;p&gt;So you are writing an essay and you want to emphasize a particular portion of your essay to your audience that you think is just mindblowing. Tools like Medium provide such an easy way to do this while we still keep scratching our head with mark tags and p tag with a background color and what not.. Worry not, this theme allows you to easily highlight a portion of a text without any hassle.&lt;/p&gt;
+        &lt;p&gt;Here is an example of it:&lt;/p&gt;
+        &lt;p class=&quot;boxit&quot;&gt;&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, [[quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident::highlight]], sunt in culpa qui officia deserunt mollit anim id est laborum.&quot;&lt;/p&gt;
+        &lt;h4 id=&quot;primitive-flashcards&quot;&gt;Primitive Flashcards&lt;/h4&gt;
+        &lt;p&gt;Anki has been my friend, my well-wisher, my guardian, pretty much everything for the last one year of my intellectual life. I have a half-hour morning routine that I follow dilligently in going through the scheduled anki decks to strengthen my neuronal connection on a particular topic/subject. And I have been doing it consistently for almost a year now. This is an attempt at recreating the aspect of spaced-repetition to allow my brain to form interesting connections based on things I have already written. The plan is to extend it using local storage and somekind of firebase like service to provide a constant reminder to users using the supermemo algorithm, but as of now, this is where I stand — a simple on-click card to keep the thing going until I build something better.&lt;/p&gt;
+        &lt;p&gt;Here is an example(click on the card):&lt;/p&gt;
+        &lt;p&gt;&quot;Lorem ipsum dolor sit amet, [[consectetur adipiscing elit, sed do eiusmod tempor::srs]] incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&quot;&lt;/p&gt;
+        &lt;p&gt;For all you know, this could be used for some interesting things if you have a tutorials website where you write posts on technical concepts. So that's that.&lt;/p&gt;
+        &lt;h4 id=&quot;the-gimmicks&quot;&gt;The Gimmicks&lt;/h4&gt;
+        &lt;h5 id=&quot;profile-board-for-main-site&quot;&gt;Profile Board for Main Site&lt;/h5&gt;
+        &lt;p&gt;If you have ever used a social media with feeds you probably have stalked the profiles of people you find interesting, but the problem is as much as the mystery gets someone into look at your profile, it also makes them form opinions. If the profile reads author, you see their feed one way; and if it says scientist from Caltech, you see it the other. I mean as much as authority is a thing to form opinions about, it also alienates people from what could potentially have been a great relation if not for the credentiality and appearance. So, the idea with the profile board was to get done with this stuff right away so that people can enjoy the content instead of going profile hunting on your credibility and accomplishments and appearances to judge and validate their opinions by validating you.&lt;/p&gt;
+        &lt;p&gt;Here is the screenshot:&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/profile_board.png&quot; style=&quot;border: 1px solid #f7f7f7; box-shadow: 2px 2px 20px 0 #ddd;&quot; height=&quot;100%&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+        &lt;h5 id=&quot;omnisearch-bar&quot;&gt;Omnisearch bar&lt;/h5&gt;
+        &lt;p&gt;This is inspired by the browsers like Chrome and Firefox where the searchbar is always placed at the top so that readers can easily search for the next thing without having to go back to the main page and scroll through dozens of articles.&lt;/p&gt;
+        &lt;p&gt;And I personally like this one because, it allows me as an author/writer to quickly jump between different posts while I am reading my articles to reference in my other articles.&lt;/p&gt;
+        &lt;p&gt;Here is a screenshot:&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/search.png&quot; style=&quot;border: 1px solid #f7f7f7; box-shadow: 2px 2px 20px 0 #ddd;&quot; height=&quot;100%&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: The searchbar is not implemented as a scrollspying widget that pins itself automatically is because I have a preference for distraction free content when reading, that is why the website provides a chevron to scroll to the top easily instead of pinning the search to the header.&lt;/p&gt;
+        &lt;h5 id=&quot;feed-like-structure&quot;&gt;Feed-like structure&lt;/h5&gt;
+        &lt;p&gt;I am a big fan of Aza Raskin's infinite scroll design and the fact that it provides such an easy way to engage users is just mind-blowing. That said, I must also confess that I am not a big fan of infinite scrolls on social media websites given their addictive nature. Blogs are fundamentally finite in nature. I mean even if you are a highly productive individual who writes a thousand page essay a day, you would have only written 365 essays and not all of them interesting to me. So having a feed-like structure on blogs I feel is fundamental to allowing users to engage in a more neutral way.&lt;/p&gt;
+        &lt;p&gt;And if you are still not sure of its utility, go join twitter or facebook or instagram, and comeback to read this again after a month or so.&lt;/p&gt;
+        &lt;p&gt;Untill then here is the screenshot:&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/feed.png&quot; style=&quot;box-shadow: 2px 2px 20px 0 #ddd;&quot; height=&quot;100%&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+        &lt;h5 id=&quot;auto-tagging-wip-posts-on-the-feed&quot;&gt;Auto-tagging WIP posts on the feed&lt;/h5&gt;
+        &lt;p&gt;Sometimes you are writing something interesting but have not completed the entire thing, lets say like a series of posts on single, it can be helpful to show users right away on the feed/homepage the status so that when they click the post, their expectations are already managed.&lt;/p&gt;
+        &lt;p&gt;Here is a screenshot.&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/ongoing.png&quot; style=&quot;border: 1px solid #f7f7f7; box-shadow: 2px 2px 20px 0 #ddd;&quot; height=&quot;100%&quot; width=&quot;80%&quot; /&gt;&lt;/p&gt;
+        &lt;h5 id=&quot;clickable-tags&quot;&gt;Clickable tags&lt;/h5&gt;
+        &lt;p&gt;If you go the posts on the homepage, and go inside any of them and try to click on the tags such as date or category, you will see that it takes you to a page with all the posts belonging to that tag or date. Just a nifty little feature.&lt;/p&gt;
+        &lt;p&gt;And that is all! Thanks for scrolling all the way through to see all the features. Now if you'd like to know how to use this theme, head over to the post titled [[How to setup Simply Jekyll]]. And if you would like to see how to use these features, head over to [[How to use Simply Jekyll features on your website]]&lt;/p&gt;
+        &lt;p&gt;P.S If you use VSCode like me for content creation and authoring, and are interested in autocompletion of titles when you write your notes. You can use a small VSCode plugin that I wrote for myself to ease up my writing process: [[Notecomplete::https://github.com/raghuveerdotnet/scratchpad/tree/master/note-complete]]&lt;/p&gt;</content><author><name></name></author><category term="Jekyll" /><category term="Theme" /><summary type="html">Essentiality is the heart of any good software, and this theme is designed to ensure that I don't add things that I won't use on a daily basis or not have things that would be important for my personal usecase. It has been designed carefully to get rid of all the feature creeps, bloatwares, etc. i.e., no bootstrap, no semantic, no jquery, no nothing…</summary></entry><entry><title type="html">How to customize your _config.yml</title><link href="http://localhost:4000/posts/customizable" rel="alternate" type="text/html" title="How to customize your _config.yml" /><published>2020-03-01T00:00:00+08:00</published><updated>2020-03-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/customizable</id><content type="html" xml:base="http://localhost:4000/posts/customizable">&lt;p&gt;One of the most common complaints I recieved after opensourcing the theme was that the customizability of the site at the level of liquid and ruby code was extremely inaccessible to people who just wanted to get it up and running. To be honest, up until then I was under the impression that everyone using the theme were some kind of technically proficient people who just didn't have the time to whip up their own theme, and are resorting to themes such as mine just so that they could have a decent looking site to share their works. The reality only dawned upon me when I got like several emails from people involved in the digital garden subculture—most of them from outside of tech—told me how they liked the features but were unable to use it effectively because it was obscured by something-something-brackety-brackets-and-colons-and-equalsigns. So this is my attempt at trying to ease the customization process.&lt;/p&gt;
+        &lt;p&gt;If you are someone with even a tiny bit of programming background, I would advice you to look into &lt;em&gt;'_includes'&lt;/em&gt; folder and go to the corresponding file name and tinker with it.&lt;/p&gt;
+        &lt;p&gt;For those of you who are not into programming, I have tried to extract as many features as I can to &lt;em&gt;_config.yml&lt;/em&gt; file, so that you can at least take the advantage of some if not all the features that are customizable.&lt;/p&gt;
+        &lt;p&gt;This table explains all the customizable variables in &lt;em&gt;_config.yml&lt;/em&gt;. Most of the main variables have a property called &lt;code class=&quot;highlighter-rouge&quot;&gt;enabled&lt;/code&gt;, which when set to true will enable the main variable. For eg. turn on subheading by setting the enabled property to true, if it is already true, set it to false and see what happens.&lt;/p&gt;
+        &lt;table&gt;
+        &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th style=&quot;text-align: left&quot;&gt;Variables&lt;/th&gt;
+        &lt;th style=&quot;text-align: left&quot;&gt;Behavior&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Base Url is where do you want the site to be served from, the top level directory. You can set it to &lt;code class=&quot;highlighter-rouge&quot;&gt;/&lt;/code&gt; if you want to be served from the root directory, or else you can set to something like &lt;code class=&quot;highlighter-rouge&quot;&gt;post&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;blog&lt;/code&gt; or something similar&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;url&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable takes in the url of your site. This is the url that you registered with you domain registrar. Sometimes it can also be something different, such as in the case of github pages it would something like &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;heading&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This is the name of the site, this can only be renamed. It cannot be turned on or off&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;subheading&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This is the subheading of the site, you can enable or disable it. You can change the subheading by changing the &lt;code class=&quot;highlighter-rouge&quot;&gt;name&lt;/code&gt; property in it. Note: This cannot be toggled if the site tagline is turned off&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;tagline&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This is the tagline of the site, you can toggle it using the &lt;code class=&quot;highlighter-rouge&quot;&gt;enabled&lt;/code&gt; property in it. You can change the tagline by change the &lt;code class=&quot;highlighter-rouge&quot;&gt;name&lt;/code&gt; property in it. Note: Toggling this off will also toggle off the subheading. This is a design decision because it looks ugly to have heading and subheading without anything to distinguish between the two.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;copyright&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;I believe this is sort of self-explanatory. The &lt;code class=&quot;highlighter-rouge&quot;&gt;year&lt;/code&gt; property takes the year and &lt;code class=&quot;highlighter-rouge&quot;&gt;msg&lt;/code&gt; property takes the message, which in most cases is just your name or your organization's name. Oh and &lt;code class=&quot;highlighter-rouge&quot;&gt;msg&lt;/code&gt; is a mandatory property for the copyright to enabled as it doesn't have any &lt;code class=&quot;highlighter-rouge&quot;&gt;enabled&lt;/code&gt; property&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This is one of the most interesting variables there is. Turning it on or off will remove the profile dashboard on the home-screen.It can be turned on or off using the &lt;code class=&quot;highlighter-rouge&quot;&gt;display&lt;/code&gt; property. &lt;strong&gt;Setting &lt;code class=&quot;highlighter-rouge&quot;&gt;display&lt;/code&gt; to true will look like this:&lt;/strong&gt;  &lt;img src=&quot;/assets/img/profile_board.png&quot; /&gt; and &lt;strong&gt;With it turned off like this:&lt;/strong&gt; &lt;img src=&quot;/assets/img/site_without_profile.png&quot; /&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;name&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Self-Explanatory. Note: Depends on &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable being turned on/off. If the &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bio&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Self-Explanatory. Note: Depends on &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable being turned on/off. If the &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;email&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Self-Explanatory. Note: Depends on &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable being turned on/off. If the &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;photo&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This is the avatar that you see on the profile board when you turn the &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable on. Note: Depends on &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable being turned on/off. If the &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;social&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This is similar to the &lt;code class=&quot;highlighter-rouge&quot;&gt;user&lt;/code&gt; property in that you can toggle the sub-properties by toggling it on/off. You can enable or disable the &lt;code class=&quot;highlighter-rouge&quot;&gt;social&lt;/code&gt; variable by setting the &lt;code class=&quot;highlighter-rouge&quot;&gt;enabled&lt;/code&gt; property to true/false. All the subproperties are fixed. You cannot add a new social media site, design constraint :( &lt;br /&gt;&lt;br /&gt; All the social media properties take a username as input, if you don't want a particular social handle to be displayed, please leave the field blank or type in null.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;preferences&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable is a special type of variable. It is only for usage in the code. Don't worry, if you are not interested in the code, you won't have any use for it anyway.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;search&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable can toggled on or off by setting the &lt;code class=&quot;highlighter-rouge&quot;&gt;enabled&lt;/code&gt; property. The &lt;code class=&quot;highlighter-rouge&quot;&gt;shortcut_hint&lt;/code&gt; property is just a toggle for the markup that show &lt;code class=&quot;highlighter-rouge&quot;&gt;Shift + S&lt;/code&gt; on the search bar&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;wiki-style link&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable allows you to opt-in or out of the wiki-style double brackets for specifiying internal and external links.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sidenotes&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable covers both sidenotes and margin notes. Toggling this on-or-off will allow you use the custom sidenote syntax you saw in the [[How to use Simply Jekyll features on your website]] post.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;transclusion&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Similar to sidenotes&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;pagepreview&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable controls the on-hover behavior of internal links, that is, if you hover over an internal link it will show a small preview tooltip thingy if this variable turned on.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;wrapping&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable allows you to wrap text using a wrapped box. Eg. [[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.::wrap]]&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;highlight&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Any text inside the highlight syntax mentioned in the [[How to use Simply Jekyll features on your website]] will be highlighted based on the color you mention in the &lt;code class=&quot;highlighter-rouge&quot;&gt;color&lt;/code&gt; property of the variable. Eg. This is how it will look when [[highlighted::highlight]].&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;backlinks&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable controls the references that you see at the bottom of a post. Note that toggling it off will also remove it from the contextmenu. SEE Below: &lt;img src=&quot;/assets/img/backlinks.png&quot; /&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;related&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable controls the references related by tags that you see at the bottom of a post. Note that toggling it off will also remove it from the contextmenu. Similar to backlinks.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;contextmenu&lt;/code&gt;&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;This variable allows you to right click on the post list on the home page to do things like copy links, see backlinks and related posts without going in.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;</content><author><name></name></author><category term="Jekyll" /><category term="Theme" /><category term="Customizability" /><summary type="html">One of the most common complaints I recieved after opensourcing the theme was that the customizability of the site at the level of liquid and ruby code was extremely inaccessible to people who just wanted to get it up and running. To be honest, up until then I was under the impression that everyone using the theme were some kind of technically proficient people who just didn't have the time to whip up their own theme, and are resorting to themes such as mine just so that they could have a decent looking site to share their works. The reality only dawned upon me when I got like several emails from people involved in the digital garden subculture—most of them from outside of tech—told me how they liked the features but were unable to use it effectively because it was obscured by something-something-brackety-brackets-and-colons-and-equalsigns. So this is my attempt at trying to ease the customization process.</summary></entry><entry><title type="html">How to setup Simply Jekyll</title><link href="http://localhost:4000/posts/setup" rel="alternate" type="text/html" title="How to setup Simply Jekyll" /><published>2020-03-01T00:00:00+08:00</published><updated>2020-03-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/setup</id><content type="html" xml:base="http://localhost:4000/posts/setup">&lt;p&gt;This is going to be a super simple post about how to setup and use this theme for your own website.&lt;/p&gt;
+        &lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+        &lt;p class=&quot;boxit&quot;&gt;Q. What will it look like when I am done setting it up?&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;This is what it should look  (minus the exact essays ofcourse):
+        &lt;img src=&quot;/assets/img/end_result.jpg&quot; style=&quot;box-shadow: 2px 2px 20px 0 #ddd;&quot; /&gt;&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Now without further ado, let's get started!&lt;/p&gt;
+        &lt;h3 id=&quot;setup-prerequisites&quot;&gt;Setup Prerequisites&lt;/h3&gt;
+        &lt;p&gt;For this tutorial, we’ll need to install a few things on your machine (you may have some of these already). Following the instructions on each website to install them.&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;[[Ruby::https://www.ruby-lang.org/]]&lt;/li&gt;
+        &lt;li&gt;[[RubyGems::https://rubygems.org/]]&lt;/li&gt;
+        &lt;li&gt;[[Git::https://git-scm.com/downloads]]&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;You’ll also need to create accounts on the following services:&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;[[GitHub::https://www.github.com/join]] (to store the website)&lt;/li&gt;
+        &lt;li&gt;[[Netlify::https://app.netlify.com/signup]] (to serve the website so others can see)&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Once you are all set with the prerequisites, we can then get to the fun part of getting it to appear on your screen. Let's get started with that.&lt;/p&gt;
+        &lt;h3 id=&quot;1-create-a-fork-of-the-template-repository&quot;&gt;1. Create a fork of the template repository&lt;/h3&gt;
+        &lt;p&gt;To simplify things, I provide the template showed in the image above to get started. You can always tweak this template to your taste later.&lt;/p&gt;
+        &lt;p&gt;Visit the GitHub page for my template repository ([[raghuveerdotnet/jekyll-seamless::https://github.com/raghuveerdotnet/jekyll-seamless]]), and fork it to your account using the Fork button:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;img src=&quot;/assets/img/fork_button.jpg&quot; style=&quot;box-shadow: 2px 2px 20px 0 #ddd;&quot; /&gt;&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Once the forking process is complete, you should have a fork (essentially a copy) of my template in your own GitHub account. On the GitHub page for your repository, click on the green “Clone or download” button, and copy the URL: we’ll need it for the next step.&lt;/p&gt;
+        &lt;h3 id=&quot;2-clone-your-repository-locally&quot;&gt;2. Clone your repository locally&lt;/h3&gt;
+        &lt;p&gt;Next, we want to download the files from your GitHub repository onto your local machine. To do this, replace &lt;YOUR_COPIED_URL_HERE&gt; in the command below with the URL you copied in the previous step, then execute this command:&lt;/YOUR_COPIED_URL_HERE&gt;&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git clone &amp;lt;YOUR_COPIED_URL_HERE&amp;gt; my-personal-website
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;As a reference point, this is how it looks like for me (the difference is likely just the GitHub username):&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git clone git@github.com:raghuveerdotnet/jekyll-seamless.git my-personal-website
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Then, navigate into the directory that was just created:&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd my-personal-website
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;h3 id=&quot;3-test-out-the-site-locally&quot;&gt;3. Test out the site locally&lt;/h3&gt;
+        &lt;p&gt;Sweet! You now have your repository’s source code on your machine. Within the my-personal-website directory, run the following command to install the necessary dependencies like Jekyll:&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ bundle
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Once that’s done, ask Jekyll to start serving the site locally:&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ bundle exec jekyll serve
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Then, open up [[http://localhost:4000::http://localhost:4000]] in your browser.&lt;/p&gt;
+        &lt;p&gt;If everything’s done correctly, you should now see the home page of your Personal Jekyll Website with Simply Jekyll Theme. 🎉&lt;/p&gt;
+        &lt;p&gt;Keep in mind that this site is only available locally (notice the &lt;code class=&quot;highlighter-rouge&quot;&gt;localhost&lt;/code&gt; part of the URL), so if we want it to be available on the Internet for everyone to enjoy, we need to deploy it to the Internet: we’ll use Netlify for that in the next step.&lt;/p&gt;
+        &lt;h3 id=&quot;4-connect-your-github-repository-to-netlify&quot;&gt;4. Connect your GitHub repository to Netlify&lt;/h3&gt;
+        &lt;p&gt;Netlify lets you automatically deploy your personal website on to the Internet when you update your GitHub repository. To do this, we need to connect your GitHub repository to Netlify:&lt;/p&gt;
+        &lt;ol&gt;
+        &lt;li&gt;Log in to Netlify&lt;/li&gt;
+        &lt;li&gt;Once logged in, click the “New site from Git” button&lt;/li&gt;
+        &lt;li&gt;On the next page, select GitHub as the continuous deployment provider (you may need to authorize the connection, in which case, approve it)&lt;/li&gt;
+        &lt;li&gt;On the next page, select your website repository from the list.&lt;/li&gt;
+        &lt;li&gt;On the next page, replace the basic build settings with the following.
+        &lt;ol&gt;
+        &lt;li&gt;Type in &quot;jekyll build&quot; (without the quotes) inside the text field titled &quot;Build Command&quot;.&lt;/li&gt;
+        &lt;li&gt;Similarly type in &quot;_site/&quot; (without the quotes) inside the text field titled &quot;Publish Directory&quot;.&lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;/li&gt;
+        &lt;li&gt;On the next page, keep the default settings, and click on “Deploy site”.&lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;p&gt;That was easy! We’re almost done.&lt;/p&gt;
+        &lt;p&gt;Wait a couple of minutes for the initial deploy to complete.&lt;/p&gt;
+        &lt;p&gt;Once that’s done, your website should be available on the Internet via a generic Netlify URL, which you can change to a custom domain later if you’d like.&lt;/p&gt;
+        &lt;p&gt;Now the cool thing is this: whenever you push an update to your GitHub repository, Netlify will automatically deploy your updates to the Internet.&lt;/p&gt;
+        &lt;h3 id=&quot;5-start-producing-content-with-your-simply-jekyll-based-website&quot;&gt;5. Start producing content with your Simply Jekyll based Website&lt;/h3&gt;
+        &lt;p&gt;At this point, you can start updating the files on your machine (in the my-personal-website folder) to change your jekyll seamless based website to your liking: update the copy, add some notes, tweak the layout, customize the colors, etc. Once you have something you’re happy with, push your changes to your GitHub repository with the following commands:&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ git add --all
+        $ git commit -m 'Update content'
+        $ git push origin master
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;If that command succeeds and the rest of the tutorial was done correctly, in a couple of minutes, you should see your changes live on your Netlify website. 🚀&lt;/p&gt;
+        &lt;p&gt;And we’re done! You now have your own Simply Jekyll based Personal Website .&lt;/p&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;If you’re curious, take a look at [[my personal simply jekyll based website here::https://www.raghuveer.net]].&lt;/p&gt;</content><author><name></name></author><category term="Jekyll" /><category term="Theme" /><summary type="html">This is going to be a super simple post about how to setup and use this theme for your own website.</summary></entry><entry><title type="html">How to use Simply Jekyll features on your website</title><link href="http://localhost:4000/posts/usage" rel="alternate" type="text/html" title="How to use Simply Jekyll features on your website" /><published>2020-02-01T00:00:00+08:00</published><updated>2020-02-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/usage</id><content type="html" xml:base="http://localhost:4000/posts/usage">&lt;p&gt;Welcome to this feature usage tour. This is going to be another short post that describes how to use all the fancy features we saw in [[Exploring the features of Simply Jekyll]]. So without further ado, let's get started.&lt;/p&gt;
+        &lt;h2 id=&quot;the-default-features&quot;&gt;The default features&lt;/h2&gt;
+        &lt;p&gt;All the default jekyll markdown features are made available such that they don't cause any conflict with the custom features that we have implemented. To see how to the raw markdown gets generated, go to the [[Test page to see how the raw markdown is rendered]]&lt;/p&gt;
+        &lt;h2 id=&quot;the-custom-features&quot;&gt;The Custom features&lt;/h2&gt;
+        &lt;h3 id=&quot;1-creating-a-wiki-style-link&quot;&gt;1. Creating a wiki-style link&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;u&gt;General Syntax&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Internal links:&lt;/strong&gt; &lt;strong&gt;[​[&lt;/strong&gt;​Some Link&lt;strong&gt;]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;External links:&lt;/strong&gt; &lt;strong&gt;[​[​&lt;/strong&gt;Some Text::https://address-to-the-website&lt;strong&gt;]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;Anything text inside a double square bracket is considered as an internal link. The text has to be a valid title, if you provide a random text inside double square brackets, it will showup highlighted in yellow telling you that there is no essay/article/file with the mentioned title.&lt;/p&gt;
+        &lt;p&gt;Similarly, for external links all you have to do is add a double colon after the &quot;Alt text&quot; and enter the link to the website after the double colon as seen below.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Example of an internal link that points to a valid post or page, that is, a page with the title (not url) mentioned in the double brackets.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; &lt;strong&gt;[​[&lt;/strong&gt;Adlerian Teleological Thinking and A Simplified Life&lt;strong&gt;]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; [[Adlerian Teleological Thinking and A Simplified Life]]&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Example of an internal link that do not point to a valid post or page, that is, a page with the title (not url) mentioned in the double brackets.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; &lt;strong&gt;[​[&lt;/strong&gt;Title of a non-existent page&lt;strong&gt;]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; [[Title of a non-existent page]]&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h3 id=&quot;2-creating-a-sidenote-or-a-marginnote&quot;&gt;2. Creating a sidenote or a marginnote&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;u&gt;General Syntax&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Sidenote:&lt;/strong&gt; &lt;strong&gt;[​[&lt;/strong&gt;Some Text&lt;strong&gt;::keyword-of-the-type-of-the-sidenote]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Marginnote:&lt;/strong&gt; &lt;strong&gt;[​[​&lt;/strong&gt;Some Text&lt;strong&gt;::keyword-of-the-type-of-the-marginnote]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote&gt;
+        &lt;table&gt;
+        &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th style=&quot;text-align: left&quot;&gt;Type of the sidenote/marginnote&lt;/th&gt;
+        &lt;th style=&quot;text-align: left&quot;&gt;keyword&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Left Sidenote&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lsn&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Right Sidenote&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rsn&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Left Marginnote&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lmn&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Right Marginnote&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rmn&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;So, all you have to do is type in the keywords of the corresponding type of sidenote or marginnote after the double colon in the above syntax&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Example of a sidenote to the right side of the page:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. &lt;strong&gt;[​[&lt;/strong&gt;Phasellus mollis lectus id efficitur mollis.&lt;strong&gt;::rsn]]&lt;/strong&gt; Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. [[Phasellus mollis lectus id efficitur mollis.::rsn]] Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Same goes with &lt;code class=&quot;highlighter-rouge&quot;&gt;lsn&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;rmn&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;lmn&lt;/code&gt;&lt;/p&gt;
+        &lt;h3 id=&quot;3-highlighting-a-piece-of-text&quot;&gt;3. Highlighting a piece of text&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;u&gt;General Syntax&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;[​[&lt;/strong&gt;​Some Link&lt;strong&gt;::highlight]]&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;There is only one color right now in which it highlights, a light bluish color, but you can easily extend it to support multiple colors by tinkering with it in &lt;code class=&quot;highlighter-rouge&quot;&gt;content.html&lt;/code&gt; file in &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt; directory.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. &lt;strong&gt;[​[&lt;/strong&gt;Phasellus mollis lectus id efficitur mollis.&lt;strong&gt;::highlight]]&lt;/strong&gt; Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. [[Phasellus mollis lectus id efficitur mollis.::highlight]] Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h3 id=&quot;4-partial-transclusion&quot;&gt;4. Partial Transclusion&lt;/h3&gt;
+        &lt;p&gt;Transclusion is just a natural extension of sidenote and marginnote feature.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;u&gt;General Syntax&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Sidenote-transclusion:&lt;/strong&gt; &lt;strong&gt;[​[&lt;/strong&gt;Some Text&lt;strong&gt;::keyword-of-the-type-of-the-sidenote-transclusion]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;Marginnote-transclusion:&lt;/strong&gt; &lt;strong&gt;[​[​&lt;/strong&gt;Some Text&lt;strong&gt;::keyword-of-the-type-of-the-marginnote-transclusion]]&lt;/strong&gt;&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;blockquote&gt;
+        &lt;table&gt;
+        &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th style=&quot;text-align: left&quot;&gt;Type of the sidenote/marginnote transclusion&lt;/th&gt;
+        &lt;th style=&quot;text-align: left&quot;&gt;keyword&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Left Sidenote Transclusion&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lsn-transclude&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Right Sidenote Transclusion&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rsn-transclude&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Left Marginnote Transclusion&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;lmn-transclude&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;Right Marginnote Transclusion&lt;/td&gt;
+        &lt;td style=&quot;text-align: left&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;rmn-transclude&lt;/code&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;So, all you have to do is type in the keywords of the corresponding type of sidenote or marginnote after the double colon in the above syntax&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/p&gt;
+        &lt;p&gt;Example of a transclusion to the right side of the page:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. &lt;strong&gt;[​[&lt;/strong&gt;Adlerian Teleological Thinking and A Simplified Life&lt;strong&gt;::rmn-transclude]]&lt;/strong&gt; Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. [[Adlerian Teleological Thinking and A Simplified Life::rmn-transclude]] Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Same goes with &lt;code class=&quot;highlighter-rouge&quot;&gt;rsn&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;lsn&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;lmn&lt;/code&gt;&lt;/p&gt;
+        &lt;h3 id=&quot;5-wrapping-a-text-inside-a-box&quot;&gt;5. Wrapping a text inside a box&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;u&gt;General Syntax&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;[​[&lt;/strong&gt;Some Text&lt;strong&gt;::wrap]]&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; &lt;strong&gt;[​[&lt;/strong&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis&lt;strong&gt;::wrap]]&lt;/strong&gt;.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; [[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum tortor in pharetra vehicula. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.::wrap]]&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h3 id=&quot;6-flashcard&quot;&gt;6. Flashcard&lt;/h3&gt;
+        &lt;p&gt;&lt;strong&gt;&lt;u&gt;General Syntax&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+        &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;[​[&lt;/strong&gt;Some Text&lt;strong&gt;::srs]]&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. &lt;strong&gt;[​[&lt;/strong&gt;Donec rutrum tortor in pharetra vehicula&lt;strong&gt;::srs]]&lt;/strong&gt;. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. [[Donec rutrum tortor in pharetra vehicula::srs]]. Fusce gravida lacus ac sem luctus congue at id justo. Ut sed tempus ante. Suspendisse sit amet diam nec justo rhoncus tristique. Ut blandit faucibus nisi vitae rutrum. Vivamus fermentum efficitur justo non facilisis.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h3 id=&quot;7-specific-classes-for-changing-font-type-font-size-and-font-weight&quot;&gt;7. Specific classes for changing font-type, font-size, and font-weight&lt;/h3&gt;
+        &lt;p&gt;There are classes like very-small, medium-small, small, small-medium, medium, medium-large, large, very-large; that can be used to change the size of your text directly from markdown like this:&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p class=&quot;regular-sans&quot;&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt;&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{:.large}
+        Some text here that needs to be enlarged
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p class=&quot;large&quot;&gt;Some text here that needs to be enlarged&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Similarly there are classes like regular-sans, serif, bold, italic, oblique, bolder, etc for formatting the text.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;&lt;strong&gt;Raw Syntax:&lt;/strong&gt;&lt;/p&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{:.medium .serif .oblique}
+        Some text here that needs to be enlarged
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;  &lt;/div&gt;
+        &lt;p&gt;&lt;strong&gt;Rendered Text:&lt;/strong&gt;&lt;/p&gt;
+        &lt;p class=&quot;medium serif oblique&quot;&gt;Some text here that needs to be enlarged&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Other common classes are .boxit that is used to wrap the text, .disable-user-select to disallow users from being able to select a particular piece of text by selecting it, etc. There are more classes like these which you can see in the file &lt;code class=&quot;highlighter-rouge&quot;&gt;style.css&lt;/code&gt;. Once you figure out which class to use, all you have to do is just add the class before the text you want inside a curl brace like this ​{:&amp;lt;classnames-with-dot-prepended-to-them&amp;gt;​}&lt;/p&gt;
+        &lt;h3 id=&quot;8-other-implicit-features&quot;&gt;8. Other implicit features.&lt;/h3&gt;
+        &lt;p&gt;Features like backlinks, context menu, related posts, page preview are available by default as they are implemented using CSS and JS. So, you don't have to do anything other than write as you would normally to make use of those features.&lt;/p&gt;
+        &lt;h4 id=&quot;note&quot;&gt;Note:&lt;/h4&gt;
+        &lt;p&gt;When you typeout square brackets, it can be frustrating to type out the entire file title everytime. At least it was for me, so I created a small VSCode plugin, the editor in which I write my essays to autocomplete the titles as soon as I type double squarebrackets. It has been pretty handy for me, if you are interested in using VSCode or already use it, you can find it here: [[Notecomplete::https://github.com/raghuveerdotnet/scratchpad/tree/master/note-complete]]. It is pretty simple to use, all you have to do is just download the note-complete folder and copy it to .vscode directory in your OS to start using it. :)&lt;/p&gt;
+        &lt;p&gt;For setting up the theme on your website checkout [[How to setup Simply Jekyll]]&lt;/p&gt;</content><author><name></name></author><category term="Jekyll" /><category term="Theme" /><summary type="html">Welcome to this feature usage tour. This is going to be another short post that describes how to use all the fancy features we saw in [[Exploring the features of Simply Jekyll]]. So without further ado, let's get started.</summary></entry><entry><title type="html">Test page to see how the raw markdown is rendered</title><link href="http://localhost:4000/posts/test" rel="alternate" type="text/html" title="Test page to see how the raw markdown is rendered" /><published>2020-01-01T00:00:00+08:00</published><updated>2020-01-01T00:00:00+08:00</updated><id>http://localhost:4000/posts/test</id><content type="html" xml:base="http://localhost:4000/posts/test">&lt;p&gt;This is intended as a quick reference and showcase.&lt;/p&gt;
+        &lt;ul id=&quot;markdown-toc&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#heading&quot; id=&quot;markdown-toc-heading&quot;&gt;Headings&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#h1&quot; id=&quot;markdown-toc-h1&quot;&gt;H1&lt;/a&gt;    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#h2&quot; id=&quot;markdown-toc-h2&quot;&gt;H2&lt;/a&gt;        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#h3&quot; id=&quot;markdown-toc-h3&quot;&gt;H3&lt;/a&gt;            &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#h4&quot; id=&quot;markdown-toc-h4&quot;&gt;H4&lt;/a&gt;                &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#h5&quot; id=&quot;markdown-toc-h5&quot;&gt;H5&lt;/a&gt;                    &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#h6&quot; id=&quot;markdown-toc-h6&quot;&gt;H6&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#emphasis&quot; id=&quot;markdown-toc-emphasis&quot;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#lists&quot; id=&quot;markdown-toc-lists&quot;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#links&quot; id=&quot;markdown-toc-links&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#images&quot; id=&quot;markdown-toc-images&quot;&gt;Images&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#syntax&quot; id=&quot;markdown-toc-syntax&quot;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#math&quot; id=&quot;markdown-toc-math&quot;&gt;Math expressions&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#tables&quot; id=&quot;markdown-toc-tables&quot;&gt;Tables&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#blockquotes&quot; id=&quot;markdown-toc-blockquotes&quot;&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#inline&quot; id=&quot;markdown-toc-inline&quot;&gt;Inline HTML&lt;/a&gt;        &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&quot;#hr&quot; id=&quot;markdown-toc-hr&quot;&gt;Horizontal Rule&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#br&quot; id=&quot;markdown-toc-br&quot;&gt;Line Breaks&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h3 id=&quot;heading&quot;&gt;Headings&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# H1 
+        ## H2 
+        ### H3 
+        #### H4 
+        ##### H5 
+        ###### H6
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;h1 id=&quot;h1&quot;&gt;H1&lt;/h1&gt;
+        &lt;h2 id=&quot;h2&quot;&gt;H2&lt;/h2&gt;
+        &lt;h3 id=&quot;h3&quot;&gt;H3&lt;/h3&gt;
+        &lt;h4 id=&quot;h4&quot;&gt;H4&lt;/h4&gt;
+        &lt;h5 id=&quot;h5&quot;&gt;H5&lt;/h5&gt;
+        &lt;h6 id=&quot;h6&quot;&gt;H6&lt;/h6&gt;
+        &lt;h3 id=&quot;emphasis&quot;&gt;Emphasis&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Emphasis, aka italics, with *asterisks* or _underscores_. 
+        Strong emphasis, aka bold, with **asterisks** or __underscores__. 
+        Combined emphasis with **asterisks and _underscores_**.
+        Strikethrough uses two tildes. ~~Scratch this.~~ 
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
+        &lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
+        &lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+        &lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
+        &lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. First ordered list item 
+        ...1. Ordered sublist 
+        2. Another item 
+        ...* Unordered sublist 
+        3. Actual numbers don't matter, just that it's a number 
+        4. And another item. 
+        ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown). 
+        ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅ 
+        ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅ 
+        ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.) 
+        * Unordered list can use asterisks 
+        - Or minuses
+        + Or pluses
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;ol&gt;
+        &lt;li&gt;First ordered list item
+        &lt;ol&gt;
+        &lt;li&gt;Ordered sublist&lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Another item
+        &lt;ul&gt;
+        &lt;li&gt;Unordered sublist&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Actual numbers don't matter, just that it's a number&lt;/li&gt;
+        &lt;li&gt;
+        &lt;p&gt;And another item.&lt;/p&gt;
+        &lt;p&gt;You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).&lt;/p&gt;
+        &lt;p&gt;To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+        Note that this line is separate, but within the same paragraph.⋅⋅
+        (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)&lt;/p&gt;
+        &lt;/li&gt;
+        &lt;/ol&gt;
+        &lt;ul&gt;
+        &lt;li&gt;Unordered list can use asterisks&lt;/li&gt;
+        &lt;li&gt;Or minuses&lt;/li&gt;
+        &lt;li&gt;Or pluses&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[I'm an inline-style link](https://www.google.com)
+        [I'm an inline-style link with title](https://www.google.com &quot;Google's Homepage&quot;)
+        [I'm a reference-style link][Arbitrary case-insensitive reference text]
+        [I'm a relative reference to a repository file](../blob/master/LICENSE)
+        [You can use numbers for reference-style link definitions][1]
+        Or leave it empty and use the [link text itself].
+        URLs and URLs in angle brackets will automatically get turned into links. 
+        http://www.example.com or &amp;lt;http://www.example.com&amp;gt; and sometimes 
+        example.com (but not on Github, for example).
+        Some text to show that the reference links can follow later.
+        [arbitrary case-insensitive reference text]: https://www.mozilla.org
+        [1]: http://slashdot.org
+        [link text itself]: http://www.reddit.com
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;&lt;a href=&quot;https://www.google.com&quot;&gt;I'm an inline-style link&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;https://www.google.com&quot; title=&quot;Google's Homepage&quot;&gt;I'm an inline-style link with title&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;https://www.mozilla.org&quot;&gt;I'm a reference-style link&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;../blob/master/LICENSE&quot;&gt;I'm a relative reference to a repository file&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;http://slashdot.org&quot;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Or leave it empty and use the &lt;a href=&quot;http://www.reddit.com&quot;&gt;link text itself&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;URLs and URLs in angle brackets will automatically get turned into links. 
+        http://www.example.com or &lt;a href=&quot;http://www.example.com&quot;&gt;http://www.example.com&lt;/a&gt; and sometimes 
+        example.com (but not on Github, for example).&lt;/p&gt;
+        &lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
+        &lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here's our logo (hover to see the title text):
+        Inline-style: 
+        ![alt text](/assets/img/profile.png &quot;Logo Title Text 1&quot;)
+        Reference-style: 
+        ![alt text][logo]
+        [logo]: /assets/img/profile.png &quot;Logo Title Text 2&quot;
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Here's our logo (hover to see the title text):&lt;/p&gt;
+        &lt;p&gt;Inline-style: 
+        &lt;img src=&quot;/assets/img/profile.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot; /&gt;&lt;/p&gt;
+        &lt;p&gt;Reference-style: 
+        &lt;img src=&quot;/assets/img/profile.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 2&quot; /&gt;&lt;/p&gt;
+        &lt;h3 id=&quot;syntax&quot;&gt;Code and Syntax Highlighting&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers – like Github's and Markdown Here – support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. Markdown Here supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers);&lt;/p&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Inline `code` has `back-ticks around` it.
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Inline &lt;code class=&quot;highlighter-rouge&quot;&gt;code&lt;/code&gt; has &lt;code class=&quot;highlighter-rouge&quot;&gt;back-ticks around&lt;/code&gt; it.&lt;/p&gt;
+        &lt;p&gt;Blocks of code are either fenced by lines with three back-ticks ```, or are indented with four spaces. I recommend only using the fenced code blocks – they're easier and only they support syntax highlighting.&lt;/p&gt;
+        &lt;pre class=&quot;regular-sans&quot;&gt; 
+        &lt;code&gt;
+        ```javascript
+        var s = &quot;JavaScript syntax highlighting&quot;;
+        alert(s);
+        ```
+        ```python
+        s = &quot;Python syntax highlighting&quot;
+        print s
+        ```
+        ```
+        No language indicated, so no syntax highlighting. 
+        But let's throw in a &lt;b&gt;tag&lt;/b&gt;.
+        ```
+        &lt;/code&gt;
+        &lt;/pre&gt;
+        &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;JavaScript syntax highlighting&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;s&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting. 
+        But let's throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;h3 id=&quot;math&quot;&gt;Math expressions&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;You can write math expressions using the &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mstyle mathcolor=&quot;#cc0000&quot;&gt;&lt;mtext&gt;\LateX&lt;/mtext&gt;&lt;/mstyle&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\LateX&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1em;vertical-align:-0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord text&quot; style=&quot;color:#cc0000;&quot;&gt;&lt;span class=&quot;mord&quot; style=&quot;color:#cc0000;&quot;&gt;\LateX&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/LaTeX&quot;&gt;markup language&lt;/a&gt; between double dollar signs : $$…$$. They can be written inline or as a single block.&lt;/p&gt;
+        &lt;p&gt;For example,&lt;/p&gt;
+        &lt;table&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td&gt;$$P(A&lt;/td&gt;
+        &lt;td&gt;B) = \frac{P(B&lt;/td&gt;
+        &lt;td&gt;A)\cdot P(A)}{P(B)}$$ will render as :&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; display=&quot;block&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;∣&lt;/mi&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;∣&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;⋅&lt;/mo&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;P(A|B) = \frac{P(B | A)\cdot P(A)}{P(B)}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:1em;vertical-align:-0.25em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.13889em;&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;∣&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.05017em;&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2777777777777778em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:2.363em;vertical-align:-0.936em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mopen nulldelimiter&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mfrac&quot;&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:1.427em;&quot;&gt;&lt;span style=&quot;top:-2.314em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.13889em;&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.05017em;&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-3.23em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;frac-line&quot; style=&quot;border-bottom-width:0.04em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-3.677em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.13889em;&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.05017em;&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;∣&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;⋅&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:0.2222222222222222em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot; style=&quot;margin-right:0.13889em;&quot;&gt;P&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.936em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mclose nulldelimiter&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+        &lt;table&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td&gt;Please note that for a math block to be displayed correctly, it needs to be separated by an empty line, above and below. Besides, the pipe character&lt;/td&gt;
+        &lt;td&gt;may conflict with markdown : it is recommended to use \vert instead.&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;Tables aren't part of the core Markdown spec, but they are part of GFM and Markdown Here supports them. They are an easy way of adding tables to your email – a task that would otherwise require copy-pasting from another application.&lt;/p&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Colons can be used to align columns.
+        | Tables        | Are           | Cool  |
+        | ------------- |:-------------:| -----:|
+        | col 3 is      | right-aligned | $1600 |
+        | col 2 is      | centered      |   $12 |
+        | zebra stripes | are neat      |    $1 |
+        There must be at least 3 dashes separating each header cell.
+        The outer pipes (|) are optional, and you don't need to make the 
+        raw Markdown line up prettily. You can also use inline Markdown.
+        Markdown | Less | Pretty
+        --- | --- | ---
+        *Still* | `renders` | **nicely**
+        1 | 2 | 3
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
+        &lt;table&gt;
+        &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Tables&lt;/th&gt;
+        &lt;th style=&quot;text-align: center&quot;&gt;Are&lt;/th&gt;
+        &lt;th style=&quot;text-align: right&quot;&gt;Cool&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td&gt;col 3 is&lt;/td&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;right-aligned&lt;/td&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;col 2 is&lt;/td&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;centered&lt;/td&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;zebra stripes&lt;/td&gt;
+        &lt;td style=&quot;text-align: center&quot;&gt;are neat&lt;/td&gt;
+        &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;p&gt;There must be at least 3 dashes separating each header cell.
+        The outer pipes (|) are optional, and you don't need to make the 
+        raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
+        &lt;table&gt;
+        &lt;thead&gt;
+        &lt;tr&gt;
+        &lt;th&gt;Markdown&lt;/th&gt;
+        &lt;th&gt;Less&lt;/th&gt;
+        &lt;th&gt;Pretty&lt;/th&gt;
+        &lt;/tr&gt;
+        &lt;/thead&gt;
+        &lt;tbody&gt;
+        &lt;tr&gt;
+        &lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;renders&lt;/code&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td&gt;3&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;/tbody&gt;
+        &lt;/table&gt;
+        &lt;h3 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; Blockquotes are very handy in email to emulate reply text.
+        &amp;gt; This line is part of the same quote.
+        Quote break.
+        &amp;gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;Blockquotes are very handy in email to emulate reply text.
+        This line is part of the same quote.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;p&gt;Quote break.&lt;/p&gt;
+        &lt;blockquote&gt;
+        &lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote.&lt;/p&gt;
+        &lt;/blockquote&gt;
+        &lt;h2 id=&quot;inline&quot;&gt;Inline HTML&lt;/h2&gt;
+        &lt;p&gt;You can also use raw HTML in your Markdown, and it'll mostly work pretty well.&lt;/p&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;dl&amp;gt;
+        &amp;lt;dt&amp;gt;Definition list&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;Is something people use sometimes.&amp;lt;/dd&amp;gt;
+        &amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
+        &amp;lt;dd&amp;gt;Does *not* work **very** well. Use HTML &amp;lt;em&amp;gt;tags&amp;lt;/em&amp;gt;.&amp;lt;/dd&amp;gt;
+        &amp;lt;/dl&amp;gt;
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;You can also use raw HTML in your Markdown, and it'll mostly work pretty well.&lt;/p&gt;
+        &lt;dl&gt;
+        &lt;dt&gt;Definition list&lt;/dt&gt;
+        &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
+        &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
+        &lt;dd&gt;Does *not* work **very** well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
+        &lt;/dl&gt;
+        &lt;h3 id=&quot;hr&quot;&gt;Horizontal Rule&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Three or more...
+        ---
+        Hyphens
+        ***
+        Asterisks
+        ___
+        Underscores
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Three or more…&lt;/p&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;Hyphens&lt;/p&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;Asterisks&lt;/p&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;Underscores&lt;/p&gt;
+        &lt;h3 id=&quot;br&quot;&gt;Line Breaks&lt;/h3&gt;
+        &lt;hr /&gt;
+        &lt;p&gt;My basic recommendation for learning how line breaks work is to experiment and discover – hit &lt;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. &quot;Markdown Toggle&quot; is your friend.&lt;/Enter&gt;&lt;/p&gt;
+        &lt;p&gt;Here are some things to try out:&lt;/p&gt;
+        &lt;div class=&quot;regular-sans highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Here's a line for us to start with.
+        This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+        This line is also a separate paragraph, but...
+        This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+        &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+        &lt;p&gt;Here's a line for us to start with.&lt;/p&gt;
+        &lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
+        &lt;p&gt;This line is also a separate paragraph, but…
+        This line is only separated by a single newline, so it's a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.&lt;/p&gt;
+        &lt;p&gt;License: CC-BY&lt;/p&gt;</content><author><name></name></author><category term="Markdown" /><summary type="html">This is intended as a quick reference and showcase.</summary></entry></feed>

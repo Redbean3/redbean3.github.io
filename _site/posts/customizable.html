@@ -1,0 +1,292 @@
+<!-------------------------------------------------------------------------------------
+*
+* MIT License
+* Copyright (c) 2020 Raghuveer S
+*
+* Permission is hereby granted, free of charge, to any person obtaining a copy
+* of this software and associated documentation files (the "Software"), to deal
+* in the Software without restriction, including without limitation the rights
+* to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+* copies of the Software, and to permit persons to whom the Software is
+* furnished to do so, subject to the following conditions:
+*
+* The above copyright notice and this permission notice shall be included in all
+* copies or substantial portions of the Software.
+*
+* THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+* IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+* FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+* LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+* OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+* SOFTWARE.
+*
+------------------------------------------------------------------------------------>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Knowledge Continuum" property="og:site_name"/>
+    <meta content="A non-linear thread of important ideas weaved together to explore and understand the fabric of knowledge." property="og:description">
+    <meta content="http://localhost:4000/about/" property="article:author"><meta content="How to customize your _config.yml" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="http://localhost:4000/posts/customizable" property="og:url"><title>Redbean3</title>
+    <link rel="canonical" href="http://localhost:4000/posts/customizable"/>
+    <link rel="apple-touch-icon" href="/assets/img/profile.png">
+    <link rel="icon" href="/assets/img/favicon.png" type="image/png" sizes="16x16"/>
+    <link href="/assets/css/Style.css" rel="stylesheet" media="all" class="default" />
+    <link href="/assets/css/Util.css" rel="stylesheet" media="all" class="default" />
+    <link href="/assets/css/vendor/Katex.css" rel="stylesheet" media="all" class="default"/>
+    <!--[if IE]>
+      <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml">
+  </head>
+  <body>
+    <div class="container">
+      <div class = "box">
+        <header>
+          <div class="dashboard disable-select">
+            <div class="site-heading-ltr profile-board-col">
+              <p class="main-page-heading medium-small margin-top-0"><a href='/'>Redbean3</a></p>
+              <h4 class="main-page-subheading medium"><a href="/">Notes and Thoughts</a></h4>
+              <p class="main-page-tagline">An experiment to spark conversations</p>
+            </div>
+          </div>
+          <div class="main-site-subheader menu disable-select">
+            <a class="menu-item" href="/about">
+              <svg class="menu-item-icon" width="18" height="19" viewBox="0 0 25 25" fill="none"
+                    xmlns="http://www.w3.org/2000/svg">
+                <path
+                        d="M20.9777 21.6138V19.6138C20.9777 18.553 20.5563 17.5356 19.8061 16.7854C19.056 16.0353 18.0386 15.6138 16.9777 15.6138H8.97768C7.91682 15.6138 6.8994 16.0353 6.14926 16.7854C5.39911 17.5356 4.97768 18.553 4.97768 19.6138V21.6138"
+                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                  <path
+                        d="M12.9777 11.6138C15.1868 11.6138 16.9777 9.82298 16.9777 7.61385C16.9777 5.40471 15.1868 3.61385 12.9777 3.61385C10.7685 3.61385 8.97768 5.40471 8.97768 7.61385C8.97768 9.82298 10.7685 11.6138 12.9777 11.6138Z"
+                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <p class="menu-item-text">About</p>
+                </a>
+                <a class="menu-item" href="/tags">
+                  <svg class="menu-item-icon" width="18" height="19" viewBox="0 0 24 25" fill="none"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path d="M4 9.5H20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path d="M4 15.5H20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path d="M10 3.5L8 21.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path d="M16 3.5L14 21.5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                  <p class="menu-item-text">Tags</p>
+                </a>
+                <a class="menu-item" href="/feed.xml">
+                  <svg class="menu-item-icon" width="18" height="19" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M4 11.5C6.38695 11.5 8.67613 12.4482 10.364 14.136C12.0518 15.8239 13 18.1131 13 20.5"
+                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path d="M4 4.5C8.24346 4.5 12.3131 6.18571 15.3137 9.18629C18.3143 12.1869 20 16.2565 20 20.5"
+                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path
+                        d="M5 20.5C5.55228 20.5 6 20.0523 6 19.5C6 18.9477 5.55228 18.5 5 18.5C4.44772 18.5 4 18.9477 4 19.5C4 20.0523 4.44772 20.5 5 20.5Z"
+                        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                    <p class="menu-item-text">RSS</p>
+                  </a>
+                </div>
+                <div class="searchbar search-container">
+                  <svg class="search-icon" width="19" height="19" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M11.5 19.5C15.9183 19.5 19.5 15.9183 19.5 11.5C19.5 7.08172 15.9183 3.5 11.5 3.5C7.08172 3.5 3.5 7.08172 3.5 11.5C3.5 15.9183 7.08172 19.5 11.5 19.5Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M21.5 21.5L17.15 17.15"  stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  </svg>
+                  <div class="search-shortcut disable-select">
+                    <kbd class="disable-select">Shift</kbd>
+                    <kbd class="disable-select">s</kbd>
+                  </div>
+                  <label for="search-input"></label>
+                  <input type="text" id="search-input" autocomplete="off" placeholder="Search Redbean3..."/>
+                  <div id="search-results" class="search-results"></div>
+                </div>
+                <script type="text/javascript" src="/assets/js/vendor/lunr.min.js"></script>
+                <script src="/assets/js/Search.js"></script>
+                <div class="main-site-subheader disable-select" id="scroll-head">
+                  <div class="back-icon" onclick="window.location.assign('/');">
+                    <svg class="ripple" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                      <path d="M0 0h24v24H0z" fill="none"/>
+                      <path d="M21 11H6.83l3.58-3.59L9 6l-6 6 6 6 1.41-1.41L6.83 13H21z"/>
+                    </svg>
+                  </div>
+                  <p class="back-p">Home</p>
+                </div>
+              </header>
+              <main>
+                <h1>How to customize your _config.yml</h1>
+                <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
+                <ul class="tags">
+                  <li><a href="/dates/#01-March-2020" class="tag">March-01-2020</a></li>
+                  <!-- Loop through page categories and print them in tags -->
+                  <li><a href="/tags/#Jekyll" class="tag">Jekyll</a></li>
+                  <li><a href="/tags/#Theme" class="tag">Theme</a></li>
+                  <li><a href="/tags/#Customizability" class="tag">Customizability</a></li>
+                </ul>
+                <div class="content">
+                  <p>One of the most common complaints I recieved after opensourcing the theme was that the customizability of the site at the level of liquid and ruby code was extremely inaccessible to people who just wanted to get it up and running. To be honest, up until then I was under the impression that everyone using the theme were some kind of technically proficient people who just didn't have the time to whip up their own theme, and are resorting to themes such as mine just so that they could have a decent looking site to share their works. The reality only dawned upon me when I got like several emails from people involved in the digital garden subculture—most of them from outside of tech—told me how they liked the features but were unable to use it effectively because it was obscured by something-something-brackety-brackets-and-colons-and-equalsigns. So this is my attempt at trying to ease the customization process.</p>
+                  <p>If you are someone with even a tiny bit of programming background, I would advice you to look into <em>'_includes'</em> folder and go to the corresponding file name and tinker with it.</p>
+                  <p>For those of you who are not into programming, I have tried to extract as many features as I can to <em>_config.yml</em> file, so that you can at least take the advantage of some if not all the features that are customizable.</p>
+                  <p>This table explains all the customizable variables in <em>_config.yml</em>. Most of the main variables have a property called <code class="highlighter-rouge">enabled</code>, which when set to true will enable the main variable. For eg. turn on subheading by setting the enabled property to true, if it is already true, set it to false and see what happens.</p>
+                  <table>
+                    <thead>
+                      <tr>
+                        <th style="text-align: left">Variables</th>
+                        <th style="text-align: left">Behavior</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">baseurl</code></td>
+                        <td style="text-align: left">Base Url is where do you want the site to be served from, the top level directory. You can set it to <code class="highlighter-rouge">/</code> if you want to be served from the root directory, or else you can set to something like <code class="highlighter-rouge">post</code> or <code class="highlighter-rouge">blog</code> or something similar</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">url</code></td>
+                        <td style="text-align: left">This variable takes in the url of your site. This is the url that you registered with you domain registrar. Sometimes it can also be something different, such as in the case of github pages it would something like <code class="highlighter-rouge">&lt;username&gt;.github.io</code></td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">heading</code></td>
+                        <td style="text-align: left">This is the name of the site, this can only be renamed. It cannot be turned on or off</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">subheading</code></td>
+                        <td style="text-align: left">This is the subheading of the site, you can enable or disable it. You can change the subheading by changing the <code class="highlighter-rouge">name</code> property in it. Note: This cannot be toggled if the site tagline is turned off</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">tagline</code></td>
+                        <td style="text-align: left">This is the tagline of the site, you can toggle it using the <code class="highlighter-rouge">enabled</code> property in it. You can change the tagline by change the <code class="highlighter-rouge">name</code> property in it. Note: Toggling this off will also toggle off the subheading. This is a design decision because it looks ugly to have heading and subheading without anything to distinguish between the two.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">copyright</code></td>
+                        <td style="text-align: left">I believe this is sort of self-explanatory. The <code class="highlighter-rouge">year</code> property takes the year and <code class="highlighter-rouge">msg</code> property takes the message, which in most cases is just your name or your organization's name. Oh and <code class="highlighter-rouge">msg</code> is a mandatory property for the copyright to enabled as it doesn't have any <code class="highlighter-rouge">enabled</code> property</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">user</code></td>
+                        <td style="text-align: left">This is one of the most interesting variables there is. Turning it on or off will remove the profile dashboard on the home-screen.It can be turned on or off using the <code class="highlighter-rouge">display</code> property. <strong>Setting <code class="highlighter-rouge">display</code> to true will look like this:</strong>  <img src="/assets/img/profile_board.png" /> and <strong>With it turned off like this:</strong> <img src="/assets/img/site_without_profile.png" /></td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">name</code></td>
+                        <td style="text-align: left">Self-Explanatory. Note: Depends on <code class="highlighter-rouge">user</code> variable being turned on/off. If the <code class="highlighter-rouge">user</code> variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">bio</code></td>
+                        <td style="text-align: left">Self-Explanatory. Note: Depends on <code class="highlighter-rouge">user</code> variable being turned on/off. If the <code class="highlighter-rouge">user</code> variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">email</code></td>
+                        <td style="text-align: left">Self-Explanatory. Note: Depends on <code class="highlighter-rouge">user</code> variable being turned on/off. If the <code class="highlighter-rouge">user</code> variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">photo</code></td>
+                        <td style="text-align: left">This is the avatar that you see on the profile board when you turn the <code class="highlighter-rouge">user</code> variable on. Note: Depends on <code class="highlighter-rouge">user</code> variable being turned on/off. If the <code class="highlighter-rouge">user</code> variable is turned off, none of its properties like name, bio, email, social will show up on the profile board.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">social</code></td>
+                        <td style="text-align: left">This is similar to the <code class="highlighter-rouge">user</code> property in that you can toggle the sub-properties by toggling it on/off. You can enable or disable the <code class="highlighter-rouge">social</code> variable by setting the <code class="highlighter-rouge">enabled</code> property to true/false. All the subproperties are fixed. You cannot add a new social media site, design constraint :( <br />
+                          <br />
+                           All the social media properties take a username as input, if you don't want a particular social handle to be displayed, please leave the field blank or type in null.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">preferences</code></td>
+                        <td style="text-align: left">This variable is a special type of variable. It is only for usage in the code. Don't worry, if you are not interested in the code, you won't have any use for it anyway.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">search</code></td>
+                        <td style="text-align: left">This variable can toggled on or off by setting the <code class="highlighter-rouge">enabled</code> property. The <code class="highlighter-rouge">shortcut_hint</code> property is just a toggle for the markup that show <code class="highlighter-rouge">Shift + S</code> on the search bar</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">wiki-style link</code></td>
+                        <td style="text-align: left">This variable allows you to opt-in or out of the wiki-style double brackets for specifiying internal and external links.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">sidenotes</code></td>
+                        <td style="text-align: left">This variable covers both sidenotes and margin notes. Toggling this on-or-off will allow you use the custom sidenote syntax you saw in the <span class="tooltip"><a href="/posts/usage">How to use Simply Jekyll features on your website</a><span class="right bottom"><span class="tooltip-title">How to use Simply Jekyll features on your website</span><br/>
+                              <span class="tooltip-excerpt">Welcome to this feature usage tour. This is going to be another short post that describes how to use all the fancy features we saw in [[Exploring the features of Simply Jekyll]]. So without further...</span><i></i></span></span> post.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">transclusion</code></td>
+                        <td style="text-align: left">Similar to sidenotes</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">pagepreview</code></td>
+                        <td style="text-align: left">This variable controls the on-hover behavior of internal links, that is, if you hover over an internal link it will show a small preview tooltip thingy if this variable turned on.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">wrapping</code></td>
+                        <td style="text-align: left">This variable allows you to wrap text using a wrapped box. Eg. 
+                          <p class="boxit">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">highlight</code></td>
+                        <td style="text-align: left">Any text inside the highlight syntax mentioned in the <span class="tooltip"><a href="/posts/usage">How to use Simply Jekyll features on your website</a><span class="right bottom"><span class="tooltip-title">How to use Simply Jekyll features on your website</span><br/>
+                              <span class="tooltip-excerpt">Welcome to this feature usage tour. This is going to be another short post that describes how to use all the fancy features we saw in [[Exploring the features of Simply Jekyll]]. So without further...</span><i></i></span></span> will be highlighted based on the color you mention in the <code class="highlighter-rouge">color</code> property of the variable. Eg. This is how it will look when <span style="font-family: inherit; font-weight: inherit; font-style: inherit; font-size: inherit; background-color:#DAEDFF;">highlighted</span>.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">backlinks</code></td>
+                        <td style="text-align: left">This variable controls the references that you see at the bottom of a post. Note that toggling it off will also remove it from the contextmenu. SEE Below: <img src="/assets/img/backlinks.png" /></td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">related</code></td>
+                        <td style="text-align: left">This variable controls the references related by tags that you see at the bottom of a post. Note that toggling it off will also remove it from the contextmenu. Similar to backlinks.</td>
+                      </tr>
+                      <tr>
+                        <td style="text-align: left"><code class="highlighter-rouge">contextmenu</code></td>
+                        <td style="text-align: left">This variable allows you to right click on the post list on the home page to do things like copy links, see backlinks and related posts without going in.</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!-- Add backlinks to the current page -->
+                <div class="related show" id="jekyll-seamless-relatedposts">
+                  <h4 class="medium-small">Related Posts</h4>
+                  <div class="related-wrapper">
+                    <div class="related-group"><a href="/posts/intro">
+                        <p class="related-title">Introduction to Simply Jekyll</p>
+                        <p class="related-excerpt">Simply Jekyll is a highly functional jekyll-based theme that combines the best of different worlds. It is a minimal and distraction free ...</p>
+                      </a></div>
+                    <div class="related-group"><a href="/posts/explore">
+                        <p class="related-title">Exploring the features of Simply Jekyll</p>
+                        <p class="related-excerpt">Essentiality is the heart of any good software, and this theme is designed to ensure that I don't add things that I won't use on a daily ...</p>
+                      </a></div>
+                    <div class="related-group"><a href="/posts/setup">
+                        <p class="related-title">How to setup Simply Jekyll</p>
+                        <p class="related-excerpt">This is going to be a super simple post about how to setup and use this theme for your own website.
+                          Usage
+                          Q. What will it look like whe...</p>
+                      </a></div>
+                    <div class="related-group"><a href="/posts/usage">
+                        <p class="related-title">How to use Simply Jekyll features on your website</p>
+                        <p class="related-excerpt">Welcome to this feature usage tour. This is going to be another short post that describes how to use all the fancy features we saw in [[E...</p>
+                      </a></div>
+                  </div>
+                  <br/>
+                </div>
+              </main><!-- DISQUS COMMENT SECTION, DO NOT TOUCH -->
+              <div id="disqus_thread"></div>
+              <script>
+                /**
+                 *RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                 *LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                var disqus_config = function () {
+                this.page.url = 'http://localhost:4000/posts/customizable';  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = 'http://localhost:4000/posts/customizable'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                };
+                
+                (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = 'https://raghuveerdotnet.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+                })();
+              </script>
+              <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+              <div id="copyright">
+                <p id="copyright-notice">© Raghuveer S. 2020</p>
+              </div>
+            </div>
+          </div>
+          <!-- Load KaTeX --></body>
+      </html>
