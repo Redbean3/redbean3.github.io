@@ -1,0 +1,64 @@
+I"%<p><strong>所用环境</strong>：Ubuntu18.04</p>
+
+<p>经过几次摸索，终于利用 的模板结合Jekyll 和GitHub Pages建立起自己的博客主页。本文会简要谈一下做这个主页的动机以及大致的创建过程。</p>
+
+<p>之所以选择GitHub Pages主要是因为国内科技博客社区平台的备受唾弃的弊病和对国外其他平台不熟悉。由于CSDN等社区的技术博客管理相当混杂，同样的文章或碎片化的、或整篇地被抄袭和复制。针对BUG的解决方案，没有完整的使用场景、没有问题背景和相关解释，对于寻求帮助的人阅览痛苦不堪，长时间之后作者本人也难免遗忘其确切含义。这些问题积累相当长时间后积重难返、不免令人失望。此外，对我而言其排版样式也不讨人喜欢。缺乏用户体验和美学设计的页面充斥着广告，被BUG困扰的心绪更加杂乱。国外的博客平台由于使用原因了解的不多，在搜寻资料时偶然遇到的平台在干净简洁方面让我觉得耳目一新。但不熟悉和直观上的不自由让我妹有进一步了解了。在做网安汇报时发现的Chih-ling-hsu的主页<a href="https://chih-ling-hsu.github.io/">An Explorer of Things</a>给了我焕然一新的感觉，其简洁清晰又不失优美的页面深深地吸引了我，由此产生了使用GitHub Pages制作个人主页的想法。</p>
+
+<h2 id="创建github-pages">创建GitHub Pages</h2>
+
+<p>创建个人GitHub Pages的过程主要参考官方文档<a href="https://docs.github.com/en/pages">GitHub Pages Documentation</a>. 其实该文档已经包含了从创建、设计到维护的一整套内容流程。但我个人仅参考了其<a href="https://docs.github.com/en/pages/getting-started-with-github-pages">Getting started with GitHub Pages</a>部分创建了Repository。</p>
+
+<h2 id="定制github-pages">定制GitHub Pages</h2>
+
+<p>在创建Repository之后，就可以在其中编辑添加文件来修缮主页了。而我个人对网页制作知之甚少，故初步选择使用别人做好的模板进行修改来进行搭建。我使用的是<a href="https://github.com/raghuveerdotnet/simply-jekyll">simply-jekyll</a>主题(非常感谢作者Raghuveer S)。读者可以使用你发现的喜欢的个人主页的主题或者从以下网站挑选。</p>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/topics/jekyll-theme">jekyll-theme · GitHub Topics</a></p>
+  </li>
+  <li>
+    <p><a href="https://jamstackthemes.dev/ssg/jekyll/">Jekyll Themes (jamstackthemes.dev)</a></p>
+  </li>
+  <li>
+    <p><a href="http://jekyllthemes.org/">JekyllThemes.com</a></p>
+  </li>
+  <li>
+    <p><a href="https://jekyllthemes.io/">JekyllThemes.io</a></p>
+  </li>
+</ul>
+
+<p>网上搜寻的方法有Fork或直接以此模板创建Repository，我个人则是将其内容复制粘贴到我的Repo中。由于对Git与自由协议的了解还不够多，这里面的差异我还不太明白，暂行方法如此。</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>对Repo提交更新后，读者就已经有了一个完整的主页了，只是其内容还是原作者的。之后我们利用<code class="highlighter-rouge"> Jekyll</code>对网页进行修改和观察。详细可以参考其官方文档 [Quickstart</td>
+      <td>Jekyll](https://jekyllrb.com/docs/). 以下对其安装使用作简要介绍。</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>所需预配置如下：</p>
+
+<p>May you meet the error as fellow:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>gem <span class="nb">install </span>jekyll bundler
+Fetching: public_suffix-4.0.6.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed public_suffix-4.0.6
+Fetching: addressable-2.7.0.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed addressable-2.7.0
+Fetching: colorator-1.1.0.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed colorator-1.1.0
+Fetching: eventmachine-1.2.7.gem <span class="o">(</span>100%<span class="o">)</span>
+Building native extensions. This could take a <span class="k">while</span>...
+ERROR:  Error installing jekyll:
+	ERROR: Failed to build gem native extension.
+<span class="c"># below ellipsis</span>
+</code></pre></div></div>
+
+<p>To solve it you need to do:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt-get <span class="nb">install </span>ruby-dev
+</code></pre></div></div>
+
+:ET
