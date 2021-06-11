@@ -47,7 +47,7 @@ tagline: # subheading won't work without a tagline,
   enabled: true
   name: An experiment to spark conversations
 copyright: 
-  year: 2020
+  year: 2021
   msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
 
 user:
@@ -55,10 +55,10 @@ user:
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Raghuveer S
-  bio: Programmer ∪ Writer
-  email: raghu-veer@outlook.com
-  photo: /assets/img/profile.png
+  name: Heph
+  bio: Student ∪ Programmer
+  email: 1589197020@qq.com
+  photo: /assets/img/profile1.jpeg
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: false  # turn this to true
