@@ -15,5 +15,5 @@ content-type: eg
 
 ## About the website
 
-It's a website I created to record the notes and thoughts, mainly about coding, and science&tech about my major. Really thanks to[[Raghuveer S::https://www.raghuveer.net/]] for the amazing theme !
+It's a website I created to record the notes and thoughts, mainly about coding, and science&tech about my major. Really thanks to [[Raghuveer S::https://www.raghuveer.net/]] for the amazing theme!
 
