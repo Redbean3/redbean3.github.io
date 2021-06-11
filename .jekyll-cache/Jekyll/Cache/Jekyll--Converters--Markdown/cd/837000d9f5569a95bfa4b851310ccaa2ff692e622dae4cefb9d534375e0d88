@@ -1,0 +1,28 @@
+I"�<p><strong>所用环境</strong>：Ubuntu18.04</p>
+
+<h3 id="创建github-pages">创建GitHub Pages</h3>
+
+<p>该部主要参考官方文档[GitHub Pages Documentation][https://docs.github.com/en/pages] 利用</p>
+
+<p>May you meet the error as fellow:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>gem <span class="nb">install </span>jekyll bundler
+Fetching: public_suffix-4.0.6.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed public_suffix-4.0.6
+Fetching: addressable-2.7.0.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed addressable-2.7.0
+Fetching: colorator-1.1.0.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed colorator-1.1.0
+Fetching: eventmachine-1.2.7.gem <span class="o">(</span>100%<span class="o">)</span>
+Building native extensions. This could take a <span class="k">while</span>...
+ERROR:  Error installing jekyll:
+	ERROR: Failed to build gem native extension.
+<span class="c"># below ellipsis</span>
+</code></pre></div></div>
+
+<p>To solve it you need to do:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt-get <span class="nb">install </span>ruby-dev
+</code></pre></div></div>
+
+:ET

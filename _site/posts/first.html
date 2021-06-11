@@ -28,10 +28,10 @@
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="Knowledge Continuum" property="og:site_name"/>
     <meta content="A non-linear thread of important ideas weaved together to explore and understand the fabric of knowledge." property="og:description">
-    <meta content="http://localhost:4000/about/" property="article:author"><meta content="By Date" property="og:title">
+    <meta content="http://localhost:4000/about/" property="article:author"><meta content="Meta-My first blog using GitHub Pages-How to blog using GitHub" property="og:title">
     <meta content="article" property="og:type">
-    <meta content="http://localhost:4000/dates/" property="og:url"><title>Redbean3</title>
-    <link rel="canonical" href="http://localhost:4000/dates/"/>
+    <meta content="http://localhost:4000/posts/first" property="og:url"><title>Redbean3</title>
+    <link rel="canonical" href="http://localhost:4000/posts/first"/>
     <link rel="apple-touch-icon" href="/assets/img/profile.png">
     <link rel="icon" href="/assets/img/favicon.png" type="image/png" sizes="16x16"/>
     <link href="/assets/css/Style.css" rel="stylesheet" media="all" class="default" />
@@ -48,24 +48,11 @@
       <div class = "box">
         <header>
           <div class="dashboard disable-select">
-            <div class="site-heading-rtl profile-board-col">
+            <div class="site-heading-ltr profile-board-col">
               <p class="main-page-heading medium-small margin-top-0"><a href='/'>Redbean3</a></p>
               <h4 class="main-page-subheading medium"><a href="/">Notes and Thoughts</a></h4>
               <p class="main-page-tagline">An experiment to spark conversations</p>
             </div>
-            <div class="userboard margin-top-0 profile-board-col">
-              <div class="username">
-                <p class="title-sans"><a href="/about/" style="text-decoration: none;">Heph</a></p>
-              </div>
-              <div class="userdesc">
-                <p class="title-sans">Student ∪ Programmer</p>
-              </div>
-            </div>
-          </div>
-          <div class="avatar margin-top-0 disable-select" title="click me to know more">
-            <a class="avatar-link" href="/about">
-              <img src="/assets/img/profile1.jpeg" class="avatar-img" alt="avatar"/>
-            </a>
           </div>
           <div class="main-site-subheader menu disable-select">
             <a class="menu-item" href="/about">
@@ -129,39 +116,42 @@
                 </div>
               </header>
               <main>
-                <h1>By Date</h1>
+                <h1>Meta-My first blog using GitHub Pages-How to blog using GitHub</h1>
                 <!-- Parse internal links, external links, transclusions etc and manipuate the content to reflect it accordingly -->
-                <div class="content"><style>
-                    .date-content a {
-                        text-decoration: none;
-                        color: #4183c4;
-                    }
-                    
-                    .date-content a:hover {
-                        text-decoration: underline;
-                        color: #4183c4;
-                    }
-                  </style>
-                  <main>
-                    <h3 id="11-June-2021">11-June-2021</h3>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/first">Meta-My first blog using GitHub Pages-How to blog using GitHub</a></li>
-                    <h3 id="01-May-2020">01-May-2020</h3>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/intro">Introduction to Simply Jekyll</a></li>
-                    <h3 id="01-April-2020">01-April-2020</h3>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/explore">Exploring the features of Simply Jekyll</a></li>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/adler">Adlerian Teleological Thinking and A Simplified Life</a></li>
-                    <h3 id="01-March-2020">01-March-2020</h3>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/setup">How to setup Simply Jekyll</a></li>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/customizable">How to customize your _config.yml</a></li>
-                    <h3 id="01-February-2020">01-February-2020</h3>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/usage">How to use Simply Jekyll features on your website</a></li>
-                    <h3 id="01-January-2020">01-January-2020</h3>
-                    <li id="date-content" style="padding-bottom: 0.6em; list-style: none;"><a href="/posts/test">Test page to see how the raw markdown is rendered</a></li>
-                    <br />
-                    <br />
-                  </main>
+                <ul class="tags">
+                  <li><a href="/dates/#11-June-2021" class="tag">June-11-2021</a></li>
+                  <!-- Loop through page categories and print them in tags --></ul>
+                <div class="content">
+                  <p><strong>所用环境</strong>：Ubuntu18.04</p>
+                  <h3 id="创建github-pages">创建GitHub Pages</h3>
+                  <p>该部主要参考官方文档[GitHub Pages Documentation][https://docs.github.com/en/pages] 利用</p>
+                  <p>May you meet the error as fellow:</p>
+                  <div class="language-shell highlighter-rouge">
+                    <div class="highlight">
+                      <pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>gem <span class="nb">install </span>jekyll bundler
+Fetching: public_suffix-4.0.6.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed public_suffix-4.0.6
+Fetching: addressable-2.7.0.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed addressable-2.7.0
+Fetching: colorator-1.1.0.gem <span class="o">(</span>100%<span class="o">)</span>
+Successfully installed colorator-1.1.0
+Fetching: eventmachine-1.2.7.gem <span class="o">(</span>100%<span class="o">)</span>
+Building native extensions. This could take a <span class="k">while</span>...
+ERROR:  Error installing jekyll:
+	ERROR: Failed to build gem native extension.
+<span class="c"># below ellipsis</span>
+</code></pre>
+                    </div>
+                  </div>
+                  <p>To solve it you need to do:</p>
+                  <div class="language-shell highlighter-rouge">
+                    <div class="highlight">
+                      <pre class="highlight"><code><span class="nv">$ </span><span class="nb">sudo </span>apt-get <span class="nb">install </span>ruby-dev
+</code></pre>
+                    </div>
+                  </div>
                 </div>
-              </main>
+                <!-- Add backlinks to the current page --></main>
               <div id="copyright">
                 <p id="copyright-notice">© Raghuveer S. 2021</p>
               </div>
